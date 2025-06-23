@@ -1,0 +1,69 @@
+{
+  "2407.21059v1": {
+    "title": "Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks",
+    "authors": [
+      "Yunfan Gao",
+      "Yun Xiong",
+      "Meng Wang",
+      "Haofen Wang"
+    ],
+    "summary": "Retrieval-augmented Generation (RAG) has markedly enhanced the capabilities\nof Large Language Models (LLMs) in tackling knowledge-intensive tasks. The\nincreasing demands of application scenarios have driven the evolution of RAG,\nleading to the integration of advanced retrievers, LLMs and other complementary\ntechnologies, which in turn has amplified the intricacy of RAG systems.\nHowever, the rapid advancements are outpacing the foundational RAG paradigm,\nwith many methods struggling to be unified under the process of\n\"retrieve-then-generate\". In this context, this paper examines the limitations\nof the existing RAG paradigm and introduces the modular RAG framework. By\ndecomposing complex RAG systems into independent modules and specialized\noperators, it facilitates a highly reconfigurable framework. Modular RAG\ntranscends the traditional linear architecture, embracing a more advanced\ndesign that integrates routing, scheduling, and fusion mechanisms. Drawing on\nextensive research, this paper further identifies prevalent RAG\npatterns-linear, conditional, branching, and looping-and offers a comprehensive\nanalysis of their respective implementation nuances. Modular RAG presents\ninnovative opportunities for the conceptualization and deployment of RAG\nsystems. Finally, the paper explores the potential emergence of new operators\nand paradigms, establishing a solid theoretical foundation and a practical\nroadmap for the continued evolution and practical deployment of RAG\ntechnologies.",
+    "pdf_url": "http://arxiv.org/pdf/2407.21059v1",
+    "published": "2024-07-26"
+  },
+  "2501.00353v1": {
+    "title": "RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions",
+    "authors": [
+      "Wanlong Liu",
+      "Junying Chen",
+      "Ke Ji",
+      "Li Zhou",
+      "Wenyu Chen",
+      "Benyou Wang"
+    ],
+    "summary": "Retrieval-Augmented Generation (RAG) has emerged as a key paradigm for\nenhancing large language models (LLMs) by incorporating external knowledge.\nHowever, current RAG methods face two limitations: (1) they only cover limited\nRAG scenarios. (2) They suffer from limited task diversity due to the lack of a\ngeneral RAG dataset. To address these limitations, we propose RAG-Instruct, a\ngeneral method for synthesizing diverse and high-quality RAG instruction data\nbased on any source corpus. Our approach leverages (1) five RAG paradigms,\nwhich encompass diverse query-document relationships, and (2) instruction\nsimulation, which enhances instruction diversity and quality by utilizing the\nstrengths of existing instruction datasets. Using this method, we construct a\n40K instruction dataset from Wikipedia, comprehensively covering diverse RAG\nscenarios and tasks. Experiments demonstrate that RAG-Instruct effectively\nenhances LLMs' RAG capabilities, achieving strong zero-shot performance and\nsignificantly outperforming various RAG baselines across a diverse set of\ntasks. RAG-Instruct is publicly available at\nhttps://github.com/FreedomIntelligence/RAG-Instruct.",
+    "pdf_url": "http://arxiv.org/pdf/2501.00353v1",
+    "published": "2024-12-31"
+  },
+  "2506.09542v1": {
+    "title": "KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs",
+    "authors": [
+      "Dingjun Wu",
+      "Yukun Yan",
+      "Zhenghao Liu",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "summary": "Retrieval-Augmented Generation (RAG) improves factual accuracy by grounding\nresponses in external knowledge. However, existing methods typically rely on a\nsingle source, either unstructured text or structured knowledge. Moreover, they\nlack cognitively inspired mechanisms for activating relevant knowledge. To\naddress these issues, we propose KG-Infused RAG, a framework that integrates\nKGs into RAG systems to implement spreading activation, a cognitive process\nthat enables concept association and inference. KG-Infused RAG retrieves KG\nfacts, expands the query accordingly, and enhances generation by combining\ncorpus passages with structured facts, enabling interpretable, multi-source\nretrieval grounded in semantic structure. We further improve KG-Infused RAG via\npreference learning on sampled key stages in the pipeline. Experiments on five\nQA benchmarks show that KG-Infused RAG consistently outperforms vanilla RAG (by\n3.8% to 13.8%). Additionally, when integrated into Self-RAG, KG-Infused RAG\nbrings further performance gains, demonstrating its effectiveness and\nversatility as a plug-and-play enhancement module for corpus-based RAG methods.",
+    "pdf_url": "http://arxiv.org/pdf/2506.09542v1",
+    "published": "2025-06-11"
+  },
+  "2505.13006v1": {
+    "title": "Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain",
+    "authors": [
+      "Yuyang Li",
+      "Philip J. M. Kerbusch",
+      "Raimon H. R. Pruim",
+      "Tobias K\u00e4fer"
+    ],
+    "summary": "Airports from the top 20 in terms of annual passengers are highly dynamic\nenvironments with thousands of flights daily, and they aim to increase the\ndegree of automation. To contribute to this, we implemented a Conversational AI\nsystem that enables staff in an airport to communicate with flight information\nsystems. This system not only answers standard airport queries but also\nresolves airport terminology, jargon, abbreviations, and dynamic questions\ninvolving reasoning. In this paper, we built three different\nRetrieval-Augmented Generation (RAG) methods, including traditional RAG, SQL\nRAG, and Knowledge Graph-based RAG (Graph RAG). Experiments showed that\ntraditional RAG achieved 84.84% accuracy using BM25 + GPT-4 but occasionally\nproduced hallucinations, which is risky to airport safety. In contrast, SQL RAG\nand Graph RAG achieved 80.85% and 91.49% accuracy respectively, with\nsignificantly fewer hallucinations. Moreover, Graph RAG was especially\neffective for questions that involved reasoning. Based on our observations, we\nthus recommend SQL RAG and Graph RAG are better for airport environments, due\nto fewer hallucinations and the ability to handle dynamic questions.",
+    "pdf_url": "http://arxiv.org/pdf/2505.13006v1",
+    "published": "2025-05-19"
+  },
+  "2501.05249v1": {
+    "title": "RAG-WM: An Efficient Black-Box Watermarking Approach for Retrieval-Augmented Generation of Large Language Models",
+    "authors": [
+      "Peizhuo Lv",
+      "Mengjie Sun",
+      "Hao Wang",
+      "Xiaofeng Wang",
+      "Shengzhi Zhang",
+      "Yuxuan Chen",
+      "Kai Chen",
+      "Limin Sun"
+    ],
+    "summary": "In recent years, tremendous success has been witnessed in Retrieval-Augmented\nGeneration (RAG), widely used to enhance Large Language Models (LLMs) in\ndomain-specific, knowledge-intensive, and privacy-sensitive tasks. However,\nattackers may steal those valuable RAGs and deploy or commercialize them,\nmaking it essential to detect Intellectual Property (IP) infringement. Most\nexisting ownership protection solutions, such as watermarks, are designed for\nrelational databases and texts. They cannot be directly applied to RAGs because\nrelational database watermarks require white-box access to detect IP\ninfringement, which is unrealistic for the knowledge base in RAGs. Meanwhile,\npost-processing by the adversary's deployed LLMs typically destructs text\nwatermark information. To address those problems, we propose a novel black-box\n\"knowledge watermark\" approach, named RAG-WM, to detect IP infringement of\nRAGs. RAG-WM uses a multi-LLM interaction framework, comprising a Watermark\nGenerator, Shadow LLM & RAG, and Watermark Discriminator, to create watermark\ntexts based on watermark entity-relationship tuples and inject them into the\ntarget RAG. We evaluate RAG-WM across three domain-specific and two\nprivacy-sensitive tasks on four benchmark LLMs. Experimental results show that\nRAG-WM effectively detects the stolen RAGs in various deployed LLMs.\nFurthermore, RAG-WM is robust against paraphrasing, unrelated content removal,\nknowledge insertion, and knowledge expansion attacks. Lastly, RAG-WM can also\nevade watermark detection approaches, highlighting its promising application in\ndetecting IP infringement of RAG systems.",
+    "pdf_url": "http://arxiv.org/pdf/2501.05249v1",
+    "published": "2025-01-09"
+  }
+}

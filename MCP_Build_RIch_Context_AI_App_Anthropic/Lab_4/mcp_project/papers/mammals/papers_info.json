@@ -1,0 +1,58 @@
+{
+  "2304.09238v1": {
+    "title": "The Evolution of Sociality and the Polyvagal Theory",
+    "authors": [
+      "J. Sean Doody",
+      "Gordon Burghardt",
+      "Vladimir Dinets"
+    ],
+    "summary": "The polyvagal theory (PT), offered by Porges (2021), proposes that the\nautonomic nervous system (ANS) was repurposed in mammals, via a second vagal\nnerve, to suppress defensive strategies and support the expression of\nsociality. Three critical assumptions of this theory are that (1) the\ntransition of the ANS was associated with the evolution of social mammals from\nasocial reptiles; (2) the transition enabled mammals, unlike their reptilian\nancestors, to derive a biological benefit from social interactions; and (3) the\ntransition forces a less parsimonious explanation (convergence) for the\nevolution of social behavior in birds and mammals, since birds evolved from a\nreptilian lineage. Two recently published reviews, however, provided compelling\nevidence that the social asocial dichotomy is overly simplistic, neglects the\ndiversity of vertebrate social systems, impedes our understanding of the\nevolution of social behavior, and perpetuates the erroneous belief that one\ngroup, non-avian reptiles, is incapable of complex social behavior. In the\nworst case, if PT depends upon a transition from asocial reptiles to social\nmammals, then the ability of PT to explain the evolution of the mammalian ANS\nis highly questionable. A great number of social behaviors occur in both\nreptiles and mammals. In the best case, PT has misused the terms social and\nasocial. Even here, however, the theory would still need to identify a\nparticular suite of behaviors found in mammals and not reptiles that could be\nassociated with, or explain, the transition of the ANS, and then replace the\nasocial and social labels with more specific descriptors.",
+    "pdf_url": "http://arxiv.org/pdf/2304.09238v1",
+    "published": "2023-04-18"
+  },
+  "1705.02727v1": {
+    "title": "Automatic Recognition of Mammal Genera on Camera-Trap Images using Multi-Layer Robust Principal Component Analysis and Mixture Neural Networks",
+    "authors": [
+      "Jhony-Heriberto Giraldo-Zuluaga",
+      "Augusto Salazar",
+      "Alexander Gomez",
+      "Ang\u00e9lica Diaz-Pulido"
+    ],
+    "summary": "The segmentation and classification of animals from camera-trap images is due\nto the conditions under which the images are taken, a difficult task. This work\npresents a method for classifying and segmenting mammal genera from camera-trap\nimages. Our method uses Multi-Layer Robust Principal Component Analysis (RPCA)\nfor segmenting, Convolutional Neural Networks (CNNs) for extracting features,\nLeast Absolute Shrinkage and Selection Operator (LASSO) for selecting features,\nand Artificial Neural Networks (ANNs) or Support Vector Machines (SVM) for\nclassifying mammal genera present in the Colombian forest. We evaluated our\nmethod with the camera-trap images from the Alexander von Humboldt Biological\nResources Research Institute. We obtained an accuracy of 92.65% classifying 8\nmammal genera and a False Positive (FP) class, using automatic-segmented\nimages. On the other hand, we reached 90.32% of accuracy classifying 10 mammal\ngenera, using ground-truth images only. Unlike almost all previous works, we\nconfront the animal segmentation and genera classification in the camera-trap\nrecognition. This method shows a new approach toward a fully-automatic\ndetection of animals from camera-trap images.",
+    "pdf_url": "http://arxiv.org/pdf/1705.02727v1",
+    "published": "2017-05-08"
+  },
+  "0808.4014v2": {
+    "title": "Evolutionary Model of Species Body Mass Diversification",
+    "authors": [
+      "Aaron Clauset",
+      "Sidney Redner"
+    ],
+    "summary": "We present a quantitative model for the biological evolution of species body\nmasses within large groups of related species, e.g., terrestrial mammals, in\nwhich body mass M evolves according to branching (speciation), multiplicative\ndiffusion, and an extinction probability that increases logarithmically with\nmass. We describe this evolution in terms of a convection-diffusion-reaction\nequation for ln M. The steady-state behavior is in good agreement with\nempirical data on recent terrestrial mammals, and the time-dependent behavior\nalso agrees with data on extinct mammal species between 95 - 50 Myr ago.",
+    "pdf_url": "http://arxiv.org/pdf/0808.4014v2",
+    "published": "2008-08-29"
+  },
+  "2210.02183v1": {
+    "title": "The metabolic origins of big size in aquatic mammals",
+    "authors": [
+      "William Roberto Luiz S. Pereira",
+      "Fabiano L. Ribeiro"
+    ],
+    "summary": "The group of large aquatic mammals has representatives being the largest\nliving beings on earth, surpassing the weight and size of dinosaurs. In this\npaper, we present some empirical evidence and a mathematical model to argue\nthat fat accumulation in marine mammals triggers a series of metabolic events\nthat result in these animals' increased size. Our study starts by analysing 43\nontogenetic trajectories of species of different types and sizes. For instance,\nthe analyses include organisms with asymptotic mass from 27g (Taiwan field\nmouse) to $2.10^{7}$g (grey whale). The available data allows us to determine\nall available species' ontogenetic parameters (catabolism and anabolism\nconstant, scaling exponent and asymptotic mass). The analyses of those data\nshow a minimisation of catabolism and scaling exponent in marine mammals\ncompared to other species analysed. We present a possible explanation for this,\narguing that the large proportion of adipose tissue in these animals can cause\nthis minimisation. That is because adipocytes have different scaling properties\nin comparison to non-adipose (typical) cells, expressed in reduced energetic\ndemand and lower metabolism. The conclusion is that when we have an animal with\na relatively large amount of adipose tissue, as is the case of aquatic mammals,\nthe cellular metabolic rate decreases compared to other animals with the same\nmass but with proportionally smaller fat tissue. A final consequence of this\ncause-effect process is the increase of the asymptotic mass of these mammals.",
+    "pdf_url": "http://arxiv.org/pdf/2210.02183v1",
+    "published": "2022-10-04"
+  },
+  "2502.18214v1": {
+    "title": "Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation",
+    "authors": [
+      "Tianyang Xu",
+      "Jiyong Rao",
+      "Xiaoning Song",
+      "Zhenhua Feng",
+      "Xiao-Jun Wu"
+    ],
+    "summary": "General mammal pose estimation is an important and challenging task in\ncomputer vision, which is essential for understanding mammal behaviour in\nreal-world applications. However, existing studies are at their preliminary\nresearch stage, which focus on addressing the problem for only a few specific\nmammal species. In principle, from specific to general mammal pose estimation,\nthe biggest issue is how to address the huge appearance and pose variances for\ndifferent species. We argue that given appearance context, instance-level prior\nand the structural relation among keypoints can serve as complementary\nevidence. To this end, we propose a Keypoint Interactive Transformer (KIT) to\nlearn instance-level structure-supporting dependencies for general mammal pose\nestimation. Specifically, our KITPose consists of two coupled components. The\nfirst component is to extract keypoint features and generate body part prompts.\nThe features are supervised by a dedicated generalised heatmap regression loss\n(GHRL). Instead of introducing external visual/text prompts, we devise\nkeypoints clustering to generate body part biases, aligning them with image\ncontext to generate corresponding instance-level prompts. Second, we propose a\nnovel interactive transformer that takes feature slices as input tokens without\nperforming spatial splitting. In addition, to enhance the capability of the KIT\nmodel, we design an adaptive weight strategy to address the imbalance issue\namong different keypoints.",
+    "pdf_url": "http://arxiv.org/pdf/2502.18214v1",
+    "published": "2025-02-25"
+  }
+}

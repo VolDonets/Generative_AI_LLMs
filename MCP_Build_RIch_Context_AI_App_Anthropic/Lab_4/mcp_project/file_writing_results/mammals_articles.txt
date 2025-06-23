@@ -1,0 +1,50 @@
+MAMMALS RESEARCH ARTICLES
+=======================
+
+Article ID: 2304.09238v1
+Title: The Evolution of Sociality and the Polyvagal Theory
+Authors: J. Sean Doody, Gordon Burghardt, Vladimir Dinets
+Published: 2023-04-18
+Summary: 
+The polyvagal theory (PT), offered by Porges (2021), proposes that the autonomic nervous system (ANS) was repurposed in mammals, via a second vagal nerve, to suppress defensive strategies and support the expression of sociality. Three critical assumptions of this theory are that (1) the transition of the ANS was associated with the evolution of social mammals from asocial reptiles; (2) the transition enabled mammals, unlike their reptilian ancestors, to derive a biological benefit from social interactions; and (3) the transition forces a less parsimonious explanation (convergence) for the evolution of social behavior in birds and mammals, since birds evolved from a reptilian lineage. Two recently published reviews, however, provided compelling evidence that the social asocial dichotomy is overly simplistic, neglects the diversity of vertebrate social systems, impedes our understanding of the evolution of social behavior, and perpetuates the erroneous belief that one group, non-avian reptiles, is incapable of complex social behavior. In the worst case, if PT depends upon a transition from asocial reptiles to social mammals, then the ability of PT to explain the evolution of the mammalian ANS is highly questionable. A great number of social behaviors occur in both reptiles and mammals. In the best case, PT has misused the terms social and asocial. Even here, however, the theory would still need to identify a particular suite of behaviors found in mammals and not reptiles that could be associated with, or explain, the transition of the ANS, and then replace the asocial and social labels with more specific descriptors.
+PDF URL: http://arxiv.org/pdf/2304.09238v1
+
+-------------------------------------------------------------------
+
+Article ID: 1705.02727v1
+Title: Automatic Recognition of Mammal Genera on Camera-Trap Images using Multi-Layer Robust Principal Component Analysis and Mixture Neural Networks
+Authors: Jhony-Heriberto Giraldo-Zuluaga, Augusto Salazar, Alexander Gomez, Angélica Diaz-Pulido
+Published: 2017-05-08
+Summary: 
+The segmentation and classification of animals from camera-trap images is due to the conditions under which the images are taken, a difficult task. This work presents a method for classifying and segmenting mammal genera from camera-trap images. Our method uses Multi-Layer Robust Principal Component Analysis (RPCA) for segmenting, Convolutional Neural Networks (CNNs) for extracting features, Least Absolute Shrinkage and Selection Operator (LASSO) for selecting features, and Artificial Neural Networks (ANNs) or Support Vector Machines (SVM) for classifying mammal genera present in the Colombian forest. We evaluated our method with the camera-trap images from the Alexander von Humboldt Biological Resources Research Institute. We obtained an accuracy of 92.65% classifying 8 mammal genera and a False Positive (FP) class, using automatic-segmented images. On the other hand, we reached 90.32% of accuracy classifying 10 mammal genera, using ground-truth images only. Unlike almost all previous works, we confront the animal segmentation and genera classification in the camera-trap recognition. This method shows a new approach toward a fully-automatic detection of animals from camera-trap images.
+PDF URL: http://arxiv.org/pdf/1705.02727v1
+
+-------------------------------------------------------------------
+
+Article ID: 0808.4014v2
+Title: Evolutionary Model of Species Body Mass Diversification
+Authors: Aaron Clauset, Sidney Redner
+Published: 2008-08-29
+Summary: 
+We present a quantitative model for the biological evolution of species body masses within large groups of related species, e.g., terrestrial mammals, in which body mass M evolves according to branching (speciation), multiplicative diffusion, and an extinction probability that increases logarithmically with mass. We describe this evolution in terms of a convection-diffusion-reaction equation for ln M. The steady-state behavior is in good agreement with empirical data on recent terrestrial mammals, and the time-dependent behavior also agrees with data on extinct mammal species between 95 - 50 Myr ago.
+PDF URL: http://arxiv.org/pdf/0808.4014v2
+
+-------------------------------------------------------------------
+
+Article ID: 2210.02183v1
+Title: The metabolic origins of big size in aquatic mammals
+Authors: William Roberto Luiz S. Pereira, Fabiano L. Ribeiro
+Published: 2022-10-04
+Summary: 
+The group of large aquatic mammals has representatives being the largest living beings on earth, surpassing the weight and size of dinosaurs. In this paper, we present some empirical evidence and a mathematical model to argue that fat accumulation in marine mammals triggers a series of metabolic events that result in these animals' increased size. Our study starts by analysing 43 ontogenetic trajectories of species of different types and sizes. For instance, the analyses include organisms with asymptotic mass from 27g (Taiwan field mouse) to 2.10^7g (grey whale). The available data allows us to determine all available species' ontogenetic parameters (catabolism and anabolism constant, scaling exponent and asymptotic mass). The analyses of those data show a minimisation of catabolism and scaling exponent in marine mammals compared to other species analysed. We present a possible explanation for this, arguing that the large proportion of adipose tissue in these animals can cause this minimisation. That is because adipocytes have different scaling properties in comparison to non-adipose (typical) cells, expressed in reduced energetic demand and lower metabolism. The conclusion is that when we have an animal with a relatively large amount of adipose tissue, as is the case of aquatic mammals, the cellular metabolic rate decreases compared to other animals with the same mass but with proportionally smaller fat tissue. A final consequence of this cause-effect process is the increase of the asymptotic mass of these mammals.
+PDF URL: http://arxiv.org/pdf/2210.02183v1
+
+-------------------------------------------------------------------
+
+Article ID: 2502.18214v1
+Title: Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation
+Authors: Tianyang Xu, Jiyong Rao, Xiaoning Song, Zhenhua Feng, Xiao-Jun Wu
+Published: 2025-02-25
+Summary: 
+General mammal pose estimation is an important and challenging task in computer vision, which is essential for understanding mammal behaviour in real-world applications. However, existing studies are at their preliminary research stage, which focus on addressing the problem for only a few specific mammal species. In principle, from specific to general mammal pose estimation, the biggest issue is how to address the huge appearance and pose variances for different species. We argue that given appearance context, instance-level prior and the structural relation among keypoints can serve as complementary evidence. To this end, we propose a Keypoint Interactive Transformer (KIT) to learn instance-level structure-supporting dependencies for general mammal pose estimation. Specifically, our KITPose consists of two coupled components. The first component is to extract keypoint features and generate body part prompts. The features are supervised by a dedicated generalised heatmap regression loss (GHRL). Instead of introducing external visual/text prompts, we devise keypoints clustering to generate body part biases, aligning them with image context to generate corresponding instance-level prompts. Second, we propose a novel interactive transformer that takes feature slices as input tokens without performing spatial splitting. In addition, to enhance the capability of the KIT model, we design an adaptive weight strategy to address the imbalance issue among different keypoints.
+PDF URL: http://arxiv.org/pdf/2502.18214v1
